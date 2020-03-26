@@ -1,1 +1,1 @@
-Please run `example/index.js`
+Goal of this project is making the interaction with Ethereum contracts simpler. Run the `example/index.js`  to see it in action.
